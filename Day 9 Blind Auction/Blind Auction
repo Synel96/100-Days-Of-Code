@@ -1,0 +1,33 @@
+import art
+print(art.logo)
+
+auction = {}
+
+print("Welcome to the Secret Auction Program!")
+
+is_more_bidders = True
+
+while is_more_bidders:
+    name = input("What's is your name?")
+
+    price = int(input("What is your bid? :$"))
+    auction[name] = price
+
+
+    add_more = input("Are they any other bidders?Type yes or no!").lower()
+    if add_more == "no" :
+        is_more_bidders = False
+    else :
+        print("\n" * 20)
+
+
+biggest_bid = 0
+winner = ""
+for key in auction :
+    if auction[key] > biggest_bid :
+        biggest_bid = auction[key]
+        winner = key
+
+
+print(f"And the Winner Is : {winner} with ${biggest_bid}!!")
+print(art.logo)
