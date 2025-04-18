@@ -7,6 +7,8 @@ def call_new_person():
 
 a_option = call_new_person()
 b_option = call_new_person()
+if a_option == b_option :
+    a_option = call_new_person()
 player_score = 0
 
 
