@@ -1,0 +1,27 @@
+# 🔐 Day 8 - Caesar Cipher
+
+A Python implementation of the Caesar Cipher encryption algorithm, created for Day 8 of the **100 Days of Code** challenge.
+
+The program allows users to encode or decode messages by shifting each letter by a specified number of positions in the alphabet.
+
+## 🚀 Features
+
+- Encode and decode functionality
+- Handles wrap-around in the alphabet
+- Supports large shift values
+- Input validation
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- String manipulation
+- Loops and conditionals
+- Functions and parameter handling
+- User interaction via console
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
