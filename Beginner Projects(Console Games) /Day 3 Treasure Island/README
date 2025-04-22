@@ -1,0 +1,25 @@
+# 🏝️ Day 3 - Treasure Island
+
+A fun text-based adventure game built with Python as part of the **100 Days of Code** challenge.
+
+The player navigates through a series of choices in search of a hidden treasure. The game uses simple `if`/`else` logic to create an interactive story experience.
+
+## 🚀 Features
+
+- Interactive story with multiple choices
+- Beginner-friendly `if/elif/else` structure
+- Emphasizes logical thinking and branching
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Conditional statements
+- User input handling
+- Game flow control
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
