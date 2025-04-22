@@ -1,0 +1,27 @@
+# 💰 Day 2 - Tip Calculator
+
+This is a beginner-friendly Python console application made for Day 2 of the **100 Days of Code** challenge.  
+It helps users calculate how much tip each person should pay when splitting a bill at a restaurant.
+
+## ⚙️ How It Works
+
+The program:
+- Asks the user for the total bill amount
+- Asks how many people are splitting the bill
+- Asks the tip percentage they'd like to give
+- Calculates and displays each person's share including tip
+
+## 🧠 What I Practiced
+
+- Getting and converting user input
+- Working with floats and integers
+- Performing basic math operations in Python
+- Using `round()` for clean output
+
+## 🛠️ Built With
+
+- Python 3
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
