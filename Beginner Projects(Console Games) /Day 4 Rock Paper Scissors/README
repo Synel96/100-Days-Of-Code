@@ -1,0 +1,25 @@
+# ✊✋✌️ Day 4 - Rock Paper Scissors
+
+This is a classic Rock, Paper, Scissors game built in Python as part of the **100 Days of Code** challenge.
+
+The player competes against the computer by choosing rock, paper, or scissors. The winner is determined based on traditional game rules.
+
+## 🚀 Features
+
+- Randomized computer choice using the `random` module
+- Player vs. computer gameplay
+- Input validation and result display
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Using the `random` module
+- Conditional logic
+- Working with lists and user input
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
