@@ -1,0 +1,26 @@
+# 📊 Day 14 - Higher Lower Game
+
+This is a Python implementation of the **Higher Lower Game**, created as part of the **100 Days of Code** challenge.
+
+In this game, the player must guess which of two celebrities has more followers on social media. The player is given multiple rounds, and after each round, the game provides feedback whether the guess was correct or not.
+
+## 🚀 Features
+
+- Randomized celebrity pairs with follower counts
+- Feedback on each guess (higher or lower)
+- Keeps track of the player's score
+- Option to restart the game
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Using dictionaries and data management
+- Working with loops and user interaction
+- Randomizing choices and handling user input
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
