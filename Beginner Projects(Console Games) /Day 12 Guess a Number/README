@@ -1,0 +1,26 @@
+# 🎲 Day 12 - Guess a Number
+
+This is a Python implementation of a simple number-guessing game, created as part of the **100 Days of Code** challenge.
+
+The player must guess a randomly selected number within a given range. The program gives feedback on whether the guess is too high or too low, and the player has to continue guessing until they find the correct number.
+
+## 🚀 Features
+
+- Random number selection within a specified range
+- Feedback on each guess (too high or too low)
+- Keeps track of the number of attempts
+- Option to play again after guessing the correct number
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Using the `random` module
+- Conditional logic and user input handling
+- Loops and managing game state
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
