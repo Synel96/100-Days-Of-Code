@@ -1,0 +1,27 @@
+# 🧮 Day 10 - Calculator
+
+This is a basic calculator app built with Python, created for Day 10 of the **100 Days of Code** challenge.
+
+It supports addition, subtraction, multiplication, and division. Users can perform continuous calculations using the result of the previous operation.
+
+## 🚀 Features
+
+- Basic arithmetic operations: add, subtract, multiply, divide
+- Continuous calculation support
+- Input validation and error handling
+- Simple, console-based interface
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Functions and return values
+- Control flow with `while` loops
+- Dictionary-based operation handling
+- Clearing the console for better UX
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
