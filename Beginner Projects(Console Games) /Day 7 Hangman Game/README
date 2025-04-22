@@ -1,0 +1,28 @@
+# 🎯 Day 7 - Hangman Game
+
+This is a Python implementation of the classic Hangman game, developed as part of the **100 Days of Code** challenge.
+
+The player guesses letters to uncover a hidden word before running out of lives. The game includes ASCII art to visually represent the hangman’s progress.
+
+## 🚀 Features
+
+- Word selection from a predefined list
+- Visual representation with ASCII art
+- User input handling and feedback
+- Tracks incorrect guesses and lives remaining
+
+## 🛠️ Built With
+
+- Python 3
+- `random` module
+
+## 🧠 What I Practiced
+
+- Loops and conditional logic
+- Lists and string manipulation
+- Displaying ASCII graphics
+- Game state management
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
