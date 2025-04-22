@@ -1,0 +1,27 @@
+# 🃏 Day 11 - Blackjack Project
+
+This is a Python implementation of the classic card game **Blackjack**, developed as part of the **100 Days of Code** challenge.
+
+The player competes against the dealer (computer) to get as close to 21 points as possible without exceeding it. The game follows standard Blackjack rules.
+
+## 🚀 Features
+
+- Player vs. dealer gameplay
+- Basic Blackjack rules, including card value calculation and bust checking
+- Option to 'Hit' or 'Stand' during the game
+- Automatically ending the game when the dealer reaches 17 or higher
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Working with lists and dictionaries
+- Implementing the core logic of Blackjack
+- Simulating card dealing and hand value calculation
+- Handling user input and game flow control
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
