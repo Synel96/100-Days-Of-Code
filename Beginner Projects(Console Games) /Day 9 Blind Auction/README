@@ -1,0 +1,27 @@
+# 💸 Day 9 - Blind Auction
+
+This is a simple console-based blind auction program written in Python for Day 9 of the **100 Days of Code** challenge.
+
+Multiple users can enter their bids, which are kept secret until the end. The program then determines and announces the highest bidder.
+
+## 🚀 Features
+
+- Accepts multiple participants
+- Keeps bids private until all are submitted
+- Automatically identifies the highest bidder
+- Option to restart the auction
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Dictionaries and data storage
+- Loops and conditional logic
+- Creating and calling functions
+- Clearing the screen for better UX
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
