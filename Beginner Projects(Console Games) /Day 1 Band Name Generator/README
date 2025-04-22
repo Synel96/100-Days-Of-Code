@@ -1,0 +1,24 @@
+# 🎸 Day 1 - Band Name Generator
+
+This is a simple Python console application created as part of the **100 Days of Code** challenge.  
+The program asks the user for the name of their city and pet, then combines the two to generate a fun and unique band name!
+
+## 🚀 Features
+
+- User input via console
+- Basic string manipulation
+- Beginner-friendly project
+
+## 🛠️ Built With
+
+- Python 3
+
+## 📚 What I Learned
+
+- How to use the `input()` function
+- Working with strings and variables
+- Basic formatting in Python
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
