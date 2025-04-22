@@ -1,0 +1,28 @@
+# ☕ Day 15 - Coffee Machine Project
+
+This is a Python-based Coffee Machine Simulator created as part of the **100 Days of Code** challenge. 
+
+The program simulates a coffee machine where the user can select from different types of coffee (espresso, latte, cappuccino), check available resources (water, milk, coffee), and manage financial transactions. The machine will automatically deduct ingredients from the available resources and track the money received.
+
+## 🚀 Features
+
+- Choose from espresso, latte, and cappuccino
+- Track and deduct ingredients (water, milk, coffee)
+- Handle money (coins input and balance check)
+- Provide feedback on the transaction (insufficient resources or successful order)
+- Allows user to refill ingredients and view financial summary
+
+## 🛠️ Built With
+
+- Python 3
+
+## 🧠 What I Practiced
+
+- Working with functions and loops
+- Managing resources and money transactions
+- Creating a user-friendly console interface
+- Handling inputs and providing feedback based on conditions
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
