@@ -1,0 +1,26 @@
+# 🔐 Day 5 - Password Generator
+
+This project is a simple yet effective password generator written in Python, created as part of the **100 Days of Code** challenge.
+
+The user can specify the number of letters, symbols, and numbers to include, and the program generates a randomized, secure password.
+
+## 🚀 Features
+
+- Customizable password length and character mix
+- Randomized password creation
+- Includes letters, digits, and symbols
+
+## 🛠️ Built With
+
+- Python 3
+- `random` module
+
+## 🧠 What I Practiced
+
+- Working with lists and loops
+- String manipulation
+- Randomization using `random.choice()` and `random.shuffle()`
+
+---
+
+Part of the [100 Days of Code](https://github.com/Synel96/100-Days-Of-Code) journey.
