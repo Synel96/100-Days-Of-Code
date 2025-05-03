@@ -1,0 +1,22 @@
+🐢 Project Overview
+This project contains 5 creative drawing challenges completed using the Python turtle module. Each challenge is designed to practice geometry, randomness, color manipulation, and graphical logic in code.
+
+🎯 What I Learned
+How to use the turtle graphics module to draw geometric shapes, lines, and patterns.
+
+How to extract dominant colors from an image using the colorgram library.
+
+How to use loops, dictionaries, and random choices to create dynamic visual effects.
+
+How to interpret and apply information from the official Python documentation.
+
+🧩 Challenges Solved
+Drawing a square
+
+Drawing dashed lines
+
+Drawing shapes with increasing number of sides (triangle to decagon)
+
+Creating a random walk using turtle directions and colors
+
+Drawing a Hirst-style dot painting using colors extracted from an image
