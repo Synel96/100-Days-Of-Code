@@ -1,0 +1,13 @@
+ Day 19: Etch-a-Sketch & Turtle Race
+
+## Overview
+This repository contains two Python projects built using object-oriented programming (OOP) and the `turtle` graphics library:
+
+1. **Etch-a-Sketch**: A simple drawing program where the user controls a cursor to draw on the screen using arrow keys.
+2. **Turtle Race**: A race simulation where multiple turtles race against each other, with the first to cross the finish line winning.
+
+## What I Learned:
+- **OOP Principles**: Used classes and objects to manage game logic and behavior.
+- **Event-Driven Programming**: Implemented real-time input handling (e.g., keypresses).
+- **Graphics & Animation**: Worked with the `turtle` library to create simple animations.
+- **Randomization**: Used randomization to vary turtle speeds in the race.
