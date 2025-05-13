@@ -11,6 +11,8 @@ screen.setup(width=600, height=600)
 screen.bgcolor("black")
 screen.title("Snake Game")
 
+
+
 screen.tracer(0)
 snake = Snake()
 food = Food()
@@ -41,16 +43,14 @@ while game_is_on:
 
 #Detect collosion with walls :
     if snake.head.xcor() > 280 or snake.head.xcor() < -290 or snake.head.ycor() > 280 or snake.head.ycor() < -280 :
-        game_is_on = False
-
-        scoreboard.game_over()
-
+        scoreboard.reset_scoreboard()
+        snake.reset()
 #Detect collosion with tail :
     for segment in snake.segments[1:] :
         
         if snake.head.distance(segment) < 10 :
-            game_is_on = False
-            scoreboard.game_over()
+            scoreboard.reset_scoreboard()
+            snake.reset()
 
         
    
